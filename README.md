@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # LuxeVoyage - Travel Management System
 
 LuxeVoyage is a full-stack web application for a travel agency. It allows users to browse and book tours and hotels, manage their bookings, and provides an admin dashboard for managing the platform.
@@ -156,3 +157,6 @@ Contributions are what make the open-source community such an amazing place to l
 ## License
 
 Distributed under the MIT License. See `LICENSE` for more information.
+=======
+# TMS-react-project
+>>>>>>> af39b000cc42bd64433deb6788e50753ff167f02
